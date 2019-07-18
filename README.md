@@ -64,26 +64,25 @@ p.s.
 
 ## Contributors
 
+### Code Contributors
+
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/undefined/undefinedgraphs/contributors"><img src="https://opencollective.com/leader/contributors.svg?width=890&button=false" /></a>
 
-## Backers
+<a href="https://github.com/willin/leader.js.cool/graphs/contributors"><img src="https://opencollective.com/willin/contributors.svg?width=890&button=false" /></a>
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/leader#backer)]
+### Financial Contributors
 
-<a href="https://opencollective.com/leader#backers" target="_blank"><img src="https://opencollective.com/leader/backers.svg?width=890"></a>
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/willin/contribute)]
 
-## Sponsors
+#### Individuals
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/leader#sponsor)]
+<a href="https://opencollective.com/willin"><img src="https://opencollective.com/willin/individuals.svg?width=890"></a>
 
-<a href="https://opencollective.com/leader/sponsor/0/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/1/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/2/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/3/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/4/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/5/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/6/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/7/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/8/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/leader/sponsor/9/website" target="_blank"><img src="https://opencollective.com/leader/sponsor/9/avatar.svg"></a>
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/willin/contribute)]
+
+<a href="https://opencollective.com/willin/organization/0/website"><img src="https://opencollective.com/willin/organization/0/avatar.svg"></a>
+
+
+
